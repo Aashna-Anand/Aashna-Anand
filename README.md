@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭I'm currently Building programming projects to improve my skills in C/C++, web development, and problem-solving.<br>👯 I’m looking to collaborate on Beginner-friendly open-source projects, web development ideas, and software-based applications.<br>🤝 I’m looking for help with Enhancing my coding skills, learning project development workflows, and understanding real-world software engineering practices.<br>🌱 I’m currently learning Data Structures & Algorithms, C/C++, JavaScript, and modern frontend tools like TypeScript & CSS.<br>💬 Ask me about C/C++, coding fundamentals, Git/GitHub, and starting projects as a computer science student.<br>⚡ Fun fact I enjoy turning small coding ideas into real projects and constantly learning new technologies!<br><br>
+💻 Building projects to improve my C/C++, web development, and problem-solving skills.
+
+🤝 Open to collaborating on beginner-friendly open-source and software projects.
+
+🌱 Currently learning DSA, C/C++, JavaScript, TypeScript, and CSS.
+
+💬 Ask me about coding fundamentals, Git/GitHub, and starting CS projects.
+
+⚡ I enjoy turning small ideas into real applications and learning new tech.<br><br>
 
 
 ## 🌐 Socials:
